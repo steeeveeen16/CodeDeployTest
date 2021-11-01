@@ -92,9 +92,3 @@ These are all the available options for `parameter-overrides`:
 ## License
 
 This project is released under the [MIT License](LICENSE).
-
-
-
-
-
-## Deployment Testing
